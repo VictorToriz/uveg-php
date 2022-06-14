@@ -1,0 +1,14 @@
+/* Estilo de imagen avatar */
+.rounded-circle {
+    border-radius: 50%!important;
+    width: 150;
+    height: 150;
+    display:block;
+    margin:auto;
+  }
+  
+body{
+    background-color: gray;
+ }
+ 
+ /* En su mayoria se usa boostrap para los estilos*/

@@ -6,7 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Uveg Victor Toriz</title>
-    <!--SCRIPTS CSS BOOTSTRAP-->
+    <!--CSS-->
+    <link rel="stylesheet" href="./index.css">
+    <!--CSS BOOTSTRAP-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
     <link rel="shortcut icon" href="./icon_a16c7dd575b0634749d3f60bcdf78a68.ico" />
 </head>
@@ -30,7 +32,8 @@
                                 <small class="form-text text-muted">Coloca tu correo electronico.</small><br>
                                 <br><input type="password" name="password" placeholder="Contraseña" inputmode="numeric" /><br>
                                 <small class="form-text text-muted">Coloca tu contraseña.</small><br>
-                                <br><button class="btn btn-secondary">Registrar</button>
+                                <br><button class="btn btn-secondary">Registrar</button><br>
+                                <br><input class="btn btn-secondary" type="reset" value="Borrar información">
                             </form>
                         </div>
     </section>
